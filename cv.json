@@ -1,7 +1,7 @@
 {
     "basics": {
       "name": "Ricardo De Juan",
-      "label": "Solutions Architect at Questrade Inc.",
+      "label": "Solutions Architect at Questrade",
       "image": "https://avatars.githubusercontent.com/u/2457695?v=4",
       "email": "...@gmail.com",
       "phone": "(912) 555-4321",
@@ -12,7 +12,7 @@
         "postalCode": "CA 94115",
         "city": "Toronto",
         "countryCode": "CA",
-        "region": "Ontario"
+        "region": "Canada"
       },
       "profiles": [
         {
@@ -33,12 +33,67 @@
       ]
     },
     "work": [{
-      "name": "Company",
-      "position": "President",
-      "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Description…",
+      "name": "Questrade Financial Group",
+      "position": "Solutions Architect",
+      "url": "https://questrade.com",
+      "startDate": "2020-12-01",
+      "endDate": null,
+      "summary": ".asdjasdjasidjsasa d asd as fdsfadsfdsafads fadsfdasf dsafadsfads fads fadsfadsf adsf dsaf ads fads fads fasd f das fads f ads afds.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Questrade Financial Group",
+      "position": "Software Architect",
+      "url": "https://questrade.com",
+      "startDate": "2019-09-01",
+      "endDate": "2020-12-01",
+      "summary": ".asdjasdjasidjsasa d asd as fdsfadsfdsafads fadsfdasf dsafadsfads fads fadsfadsf adsf dsaf ads fads fads fasd f das fads f ads afds.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "GFT",
+      "position": "Senior Software Engineer Architect",
+      "url": "https://gft.com",
+      "startDate": "2017-06-01",
+      "endDate": "2019-09-01",
+      "summary": ".asdjasdjasidjsasa d asd as fdsfadsfdsafads fadsfdasf dsafadsfads fads fadsfadsf adsf dsaf ads fads fads fasd f das fads f ads afds.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "BEEVA",
+      "position": "Technical Expert",
+      "url": "https://gft.com",
+      "startDate": "2017-06-01",
+      "endDate": "2019-09-01",
+      "summary": ".asdjasdjasidjsasa d asd as fdsfadsfdsafads fadsfdasf dsafadsfads fads fadsfadsf adsf dsaf ads fads fads fasd f das fads f ads afds.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Telefonica",
+      "position": "Startup Software Developer",
+      "url": "https://gft.com",
+      "startDate": "2017-06-01",
+      "endDate": "2019-09-01",
+      "summary": ".asdjasdjasidjsasa d asd as fdsfadsfdsafads fadsfdasf dsafadsfads fads fadsfadsf adsf dsaf ads fads fads fasd f das fads f ads afds.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Google Summer of Code Student",
+      "position": "Software Developer",
+      "url": "https://gft.com",
+      "startDate": "2017-06-01",
+      "endDate": "2019-09-01",
+      "summary": ".asdjasdjasidjsasa d asd as fdsfadsfdsafads fadsfdasf dsafadsfads fads fadsfadsf adsf dsaf ads fads fads fasd f das fads f ads afds.",
       "highlights": [
         "Started the company"
       ]
